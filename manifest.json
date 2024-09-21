@@ -1,0 +1,20 @@
+{
+  "id": "lyric-viewer",
+  "isAudioSource": true,
+  "isWebApp": false,
+  "isLocalApp": true,
+  "requires": [
+    "utility"
+  ],
+  "label": "Lyric Viewer",
+  "version": "v1.0.0",
+  "description": "A karaoke-style lyrics viewer app that syncs with Spotify",
+  "author": "Your Name",
+  "platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "homepage": "https://github.com/jfiume1/Whatsername",
+  "repository": "https://github.com/jfiume1/Whatsername"
+}
